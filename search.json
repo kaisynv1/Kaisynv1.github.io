@@ -6,6 +6,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Machine Learning",
       "Project 4"
     ]
   },
@@ -16,6 +17,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Machine Learning",
       "Project 1"
     ]
   },
@@ -26,6 +28,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Machine Learning",
       "Project 3"
     ]
   },
@@ -56,6 +59,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Story Telling",
       "Project 4"
     ]
   },
@@ -66,6 +70,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Story Telling",
       "Project 1"
     ]
   },
@@ -76,6 +81,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Story Telling",
       "Project 3"
     ]
   },
@@ -84,14 +90,22 @@
     "href": "Competition/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 2"
+    ]
   },
   {
     "objectID": "Competition/project5.html",
     "href": "Competition/project5.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 5"
+    ]
   },
   {
     "objectID": "Cleansing_Projects/project4.html",
@@ -100,6 +114,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Data Cleansing",
       "Project 4"
     ]
   },
@@ -110,6 +125,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Data Cleansing",
       "Project 1"
     ]
   },
@@ -120,6 +136,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Data Cleansing",
       "Project 3"
     ]
   },
@@ -142,14 +159,20 @@
     "href": "competition.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
   },
   {
     "objectID": "competition.html#title-2-header",
     "href": "competition.html#title-2-header",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
   },
   {
     "objectID": "Full_Stack/project4.html",
@@ -158,6 +181,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Full Stack",
       "Project 4"
     ]
   },
@@ -168,6 +192,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Full Stack",
       "Project 1"
     ]
   },
@@ -178,6 +203,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Full Stack",
       "Project 3"
     ]
   },
@@ -248,6 +274,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Full Stack",
       "Project 5"
     ]
   },
@@ -258,6 +285,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Full Stack",
       "Project 2"
     ]
   },
@@ -303,6 +331,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Data Cleansing",
       "Project 5"
     ]
   },
@@ -313,6 +342,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Data Cleansing",
       "Project 2"
     ]
   },
@@ -321,21 +351,33 @@
     "href": "Competition/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 3"
+    ]
   },
   {
     "objectID": "Competition/project1.html",
     "href": "Competition/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 1"
+    ]
   },
   {
     "objectID": "Competition/project4.html",
     "href": "Competition/project4.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top"
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competition",
+      "Project 4"
+    ]
   },
   {
     "objectID": "Story_Telling/project5.html",
@@ -344,6 +386,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Story Telling",
       "Project 5"
     ]
   },
@@ -354,6 +397,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Story Telling",
       "Project 2"
     ]
   },
@@ -426,6 +470,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Machine Learning",
       "Project 5"
     ]
   },
@@ -436,6 +481,7 @@
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
+      "Machine Learning",
       "Project 2"
     ]
   }

@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Kaisyn Vincoli - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/kaisynv1/Kaisyn_portfolio
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Kaisyn Vincoli 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
   navbar:
     background: primary
@@ -23,18 +23,7 @@ website:
         file: index.qmd
       - text: "My Resume"
         file: resume.qmd
-      - text: "Data Cleansing"
-        file: cleansing.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
-      - text: "Machine Learning"
-        file: ml.qmd
-      - text: "Full Stack"
-        file: full_stack.qmd
-      - text: "Competition"
-        file: competition.qmd
+
   
   # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
   # comment out any of the sections below to turn off the sidebar

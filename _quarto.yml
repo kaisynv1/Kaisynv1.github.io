@@ -14,8 +14,7 @@ website:
     right: 
       - icon: linkedin
         href: www.linkedin.com/in/kaisyn-vincoli-58409b302
-        
-
+-
   navbar:
     background: primary
     search: true   

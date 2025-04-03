@@ -2,7 +2,7 @@
 layout: cv
 title: Kaisyn Vincoli's Resume
 ---
-# Isaac Newton
+# Kaisyn Vincoli
 Student at Brigham Young University - Idaho
 
 <div id="webaddress">

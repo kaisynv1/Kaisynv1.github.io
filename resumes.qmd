@@ -6,7 +6,7 @@ title: Kaisyn Vincoli's Resume
 Student at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="vin23004@byui.edu">23004@byui.edu</a>
+<a href="vin23004@byui.edu">vin23004@byui.edu</a>
 
 
 ## Currently

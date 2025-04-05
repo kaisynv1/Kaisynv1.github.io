@@ -1,7 +1,4 @@
 ---
-- name: Render document
-  run: Rscript -e "rmarkdown::render('report.Rmd')"
-
 layout: cv
 title: Kaisyn Vincoli's Resume
 ---

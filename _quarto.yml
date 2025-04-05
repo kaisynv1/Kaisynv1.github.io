@@ -13,9 +13,9 @@ website:
     left: "Kaisyn Vincoli 2024©"
     right: 
       - icon: linkedin
-        href: 
+        href: www.linkedin.com/in/kaisynvincoli1
   
--
+
   navbar:
     background: primary
     search: true   
